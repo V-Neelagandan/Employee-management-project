@@ -1,0 +1,31 @@
+
+
+.form{
+   
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: rgb(49, 73, 98);
+    color:white;
+}
+label{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+input{
+    font-family: sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    padding: 3px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.heading{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: lighter;
+    border-bottom: 2px solid white;
+    padding: 20px;
+}

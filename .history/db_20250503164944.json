@@ -1,0 +1,126 @@
+{
+  "Employee_Data": [
+    {
+      "Employee_firstname": "Sathishkumar",
+      "Employee_lastname": "S",
+      "Employee_Department": "IT ",
+      "Employee_username": "Sarhish",
+      "Employee_password": "123456789",
+      "Employee_conpassword": "123456789",
+      "Employee_email": "sathisg@gmail.com",
+      "Employee_contact": "8765432189",
+      "id": "9bcc"
+    },
+    {
+      "Employee_firstname": "Kabish",
+      "Employee_lastname": "N",
+      "Employee_Department": "Professer",
+      "Employee_username": "N-Kabish",
+      "Employee_password": "poiuytrewq",
+      "Employee_conpassword": "oiuytrewq",
+      "Employee_email": "kabish@gmail.com",
+      "Employee_contact": "9078654321",
+      "id": "6182"
+    },
+    {
+      "Employee_firstname": "Murugaperumal",
+      "Employee_lastname": "S",
+      "Employee_Department": "Lawyer",
+      "Employee_username": "Muruga",
+      "Employee_password": "qwertyuiop",
+      "Employee_conpassword": "qwertyuiop",
+      "Employee_email": "muruga@gmail.com",
+      "Employee_contact": "8765432112",
+      "id": "6a2c"
+    },
+    {
+      "id": "667b",
+      "Employee_firstname": "Krishnaveni",
+      "Employee_lastname": "S",
+      "Employee_Department": "Developer",
+      "Employee_username": "Krish",
+      "Employee_password": "lkjhgfdsa",
+      "Employee_conpassword": "lkjhgfdsa",
+      "Employee_email": "krish@gmail.com",
+      "Employee_contact": "7456327889"
+    },
+    {
+      "Employee_firstname": "Sarala",
+      "Employee_lastname": "P",
+      "Employee_Department": "Data Analyst",
+      "Employee_username": "Sarala_Jack",
+      "Employee_password": "zxcvbnm",
+      "Employee_conpassword": "zxcvbnm",
+      "Employee_email": "saral@gmail.com",
+      "Employee_contact": "9876543210",
+      "id": "25ba"
+    },
+    {
+      "id": "1194",
+      "Employee_firstname": "Lalitha",
+      "Employee_lastname": "N",
+      "Employee_Department": "Professer",
+      "Employee_username": "Lalitha",
+      "Employee_password": "asdfghjkl",
+      "Employee_conpassword": "asdfghjkl",
+      "Employee_email": "lallu@gmail.com",
+      "Employee_contact": "8790564321"
+    },
+    {
+      "id": "bff0",
+      "Employee_firstname": "Manju",
+      "Employee_lastname": "M",
+      "Employee_Department": "Professer",
+      "Employee_username": "Manjari",
+      "Employee_password": "zxcvbnm,",
+      "Employee_conpassword": "zxcvbnm,",
+      "Employee_email": "manju@gmail.com",
+      "Employee_contact": "8977554223"
+    },
+    {
+      "id": "4dd1",
+      "Employee_firstname": "Babu",
+      "Employee_lastname": "J",
+      "Employee_Department": "Police",
+      "Employee_username": "Babujagan",
+      "Employee_password": "qwertyuiop",
+      "Employee_conpassword": "qwertyuiop",
+      "Employee_email": "Babu@gmail.com",
+      "Employee_contact": "0987654321"
+    },
+    {
+      "id": "5994",
+      "Employee_firstname": "Sivagami",
+      "Employee_lastname": "N",
+      "Employee_Department": "MBBS",
+      "Employee_username": "SivaNeela",
+      "Employee_password": "poiuytrewq",
+      "Employee_conpassword": "poiuytrewq",
+      "Employee_email": "Sivank@gmail.com",
+      "Employee_contact": "9626405319"
+    },
+    {
+      "id": "ceee",
+      "Employee_firstname": "Nithya",
+      "Employee_lastname": "N",
+      "Employee_Department": "Data Analyst",
+      "Employee_username": "NithayaShree",
+      "Employee_password": "lkjhgfdsa",
+      "Employee_conpassword": "lkjhgfdsa",
+      "Employee_email": "Nithya@gmail.com",
+      "Employee_contact": "6798543212"
+    }
+  ],
+  "Admin": [
+    {
+      "Username": "Neela",
+      "Password": "12345",
+      "id": "e5f5"
+    }
+    {
+      "Username": "Neela",
+      "Password": "12345",
+      "id": "e5f5"
+    }
+  ]
+}

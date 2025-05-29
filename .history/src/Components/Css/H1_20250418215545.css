@@ -1,0 +1,48 @@
+/* .h1{
+    background-image: url(K:\React\MyReactProject\MyReactProject\ReactLearnings\src\Components\images\emp2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    filter: blur(3px);
+  } */
+
+.h1 {
+  height: 100vh;
+  width: 100%;
+  
+  /* background: linear-gradient(135deg, #ff7eb3, #ff758c); */
+/* 
+  background: repeating-linear-gradient(
+      45deg,
+      #ff758c 0,
+      #ff758c 10px,
+      #ff7eb3 10px,
+      #ff7eb3 20px) */
+      
+     /* background-image: url(K:\React\MyReactProject\MyReactProject\ReactLearnings\src\Components\images\home3.jpg); */
+     background-repeat: no-repeat;
+     background-size: cover;
+      }
+
+.tit {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 900;
+  font-size: 50px;
+  position: absolute;
+  top: 22%;
+  left: 23%;
+  color: darkred;
+  text-shadow: 2px 2px 5px #fd5006;
+}
+
+h3 {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 900;
+  font-size: 50px;
+  position: absolute;
+  top: 32%;
+  left: 40%;
+  text-shadow: 5px 7px 5px white;
+} 
+/* ========================================================================== */
